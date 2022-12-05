@@ -1,0 +1,146 @@
+{
+  "Dunkin Donuts": {
+    "name": "Dunkin Donuts",
+    "type": "R",
+    "profit": 0,
+    "from": "NA",
+    "lat": "36.238709",
+    "long": "-115.224533",
+    "num": "0"
+  },
+  "Pickup Capriottis Sandwich Shop": {
+    "name": "Pickup Capriottis Sandwich Shop",
+    "type": "R",
+    "profit": 0,
+    "from": "NA",
+    "lat": "36.221447",
+    "long": "-115.330606",
+    "num": "1"
+  },
+  "Pickup McDonalds": {
+    "name": "Pickup McDonalds",
+    "type": "R",
+    "profit": 0,
+    "from": "NA",
+    "lat": "36.218847",
+    "long": "-115.281337",
+    "num": "2"
+  },
+  "Pickup Carl's Jr.": {
+    "name": "Pickup Carl's Jr.",
+    "type": "R",
+    "profit": 0,
+    "from": "NA",
+    "lat": "36.172646",
+    "long": "-115.244888",
+    "num": "3"
+  },
+  "Pickup Sonic Drive-In": {
+    "name": "Pickup Sonic Drive-In",
+    "type": "R",
+    "profit": 0,
+    "from": "NA",
+    "lat": "36.218698",
+    "long": "-115.257",
+    "num": "4"
+  },
+  "Pickup Tropical Smoothie Cafe": {
+    "name": "Pickup Tropical Smoothie Cafe",
+    "type": "R",
+    "profit": 0,
+    "from": "NA",
+    "lat": "36.218498",
+    "long": "-115.262146",
+    "num": 5
+  },
+  "Pickup Starbucks": {
+    "name": "Pickup Starbucks",
+    "type": "R",
+    "profit": 0,
+    "from": "NA",
+    "lat": "36.219694",
+    "long": "-115.275123",
+    "num": "6"
+  },
+  "Pickup Moe's": {
+    "name": "Pickup Moe's",
+    "type": "R",
+    "profit": 0,
+    "from": "NA",
+    "lat": "36.298076",
+    "long": "-115.149509",
+    "num": "7"
+  },
+  "Deliver Capriottis Sandwich Shop": {
+    "name": "Deliver Capriottis Sandwich Shop",
+    "type": "O",
+    "profit": 11.00, 
+    "from": "Capriottis Sandwich Shop",
+    "lat": "36.14743895",
+    "long": "-115.2580763",
+    "num": "11"
+  }, 
+  "Deliver McDonalds": {
+    "name": "Deliver McDonalds",
+    "type": "O",
+    "profit": 7.49, 
+    "from": "McDonalds",
+    "lat": "36.31077369",
+    "long": "-115.1096181",
+    "num": "12"
+  },
+  "Deliver Carl's Jr.": {
+    "name": "Deliver Carl's Jr.",
+    "type": "O",
+    "profit": 8.24, 
+    "from": "Carl's Jr.",
+    "lat": "36.13926537",
+    "long": "-115.1279541",
+    "num": "13"
+  },
+  "Deliver Sonic Drive-In": {
+    "name": "Deliver Sonic Drive-In",
+    "type": "O",
+    "profit": 5.90, 
+    "from": "Sonic Drive-In",
+    "lat": "36.29699113",
+    "long": "-115.2451749",
+    "num": "14"
+  }, 
+  "Deliver Tropical Smoothie Cafe": {
+    "name": "Deliver Tropical Smoothie Cafe",
+    "type": "O",
+    "profit": 5.39, 
+    "from": "Tropical Smoothie Cafe",
+    "lat": "36.2573111",
+    "long": "-115.1457295",
+    "num": "15"
+  },
+  "Deliver Starbucks": {
+    "name": "Deliver Starbucks",
+    "type": "O",
+    "profit": 2.50, 
+    "from": "Starbucks",
+    "lat": "36.26529977",
+    "long": "-115.1667498",
+    "num": "16"
+  },
+  "Deliver Moe's": {
+    "name": "Deliver Moe's",
+    "type": "O",
+    "profit": 2.10, 
+    "from": "Moe's",
+    "lat": "36.11488425",
+    "long": "-115.1905343",
+    "num": "17"
+  },
+  "Subway": {
+    "name": "Subway",
+    "type": "R",
+    "profit": 0,
+    "from": "NA",
+    "lat": "36.263008",
+    "long": "-115.214233",
+    "num": "21"
+  }
+}
