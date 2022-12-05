@@ -1,0 +1,226 @@
+{
+  "Start: Arps Garage": {
+    "name": "Start: Arps Garage",
+    "profit": 0,
+    "lat": "40.002296",
+    "long": "-83.009892",
+    "num": "0"
+  },
+  "Cazuelas Mexican Cantina": {
+    "name": "Cazuelas Mexican Cantina",
+    "profit": 0,
+    "lat": "40.009764",
+    "long": "-83.010109",
+    "num": "1"
+  },
+  "Marketplace on Neil": {
+    "name": "Marketplace on Neil",
+    "profit": 0,
+    "lat": "39.994373",
+    "long": "-83.014184",
+    "num": "2"
+  },
+  "Adriatico's": {
+    "name": "Adriatico's",
+    "profit": 0,
+    "lat": "39.994518",
+    "long": "-83.014480",
+    "num": "3"
+  },
+  "Waffle House": {
+    "name": "Waffle House",
+    "profit": 0,
+    "lat": "39.997288",
+    "long": "-83.007464",
+    "num": "4"
+  },
+  "Ethyl & Tank": {
+    "name": "Ethyl & Tank",
+    "profit": 0,
+    "lat": "39.997668",
+    "long": "-83.007528",
+    "num": 5
+  },
+  "Forno": {
+    "name": "Forno",
+    "profit": 0,
+    "lat": "39.977015",
+    "long": "-83.003540",
+    "num": "6"
+  },
+  "Northstar Cafe": {
+    "name": "Northstar Cafe",
+    "profit": 0,
+    "lat": "39.981557",
+    "long": "-83.004407",
+    "num": "7"
+  },
+  "Buckeye Donuts": {
+    "name": "Buckeye Donuts",
+    "profit": 0,
+    "lat": "40.003088",
+    "long": "-83.008651",
+    "num": "8"
+  },
+  "Roosters": {
+    "name": "Roosters",
+    "profit": 0,
+    "lat": "40.027853",
+    "long": "-83.028140",
+    "num": "9"
+  },
+  "Insomnia Cookies": {
+    "name": "Insomnia Cookies",
+    "profit": 0,
+    "lat": "40.007351",
+    "long": "-83.009460",
+    "num": "10" 
+ },
+  "Varsity Club": {
+    "name": "Varsity Club",
+    "profit": 0,
+    "lat": "40.006325",
+    "long": "-83.017021",
+    "num": "11"
+  },
+  "Mirror Lake Eatery": {
+    "name": "Mirror Lake Eatery",
+    "profit": 0,
+    "lat": "39.981557",
+    "long": "-83.004407",
+    "num": "12"
+  },
+  "Raising Cane's": {
+    "name": "Raising Cane's",
+    "profit": 0,
+    "lat": "39.994959",
+    "long": "-83.007035",
+    "num": "13"
+  },
+  "Barrio Tacos": {
+    "name": "Barrio Tacos",
+    "profit": 0,
+    "lat": "40.000506",
+    "long": "-83.008108",
+    "num": "14"
+  },
+  "Oxley's by the Numbers": {
+    "name": "Oxley's by the Numbers",
+    "profit": 0,
+    "lat": "40.002244",
+    "long": "-83.016319",
+    "num": "15"
+  },    
+  "The Ohio Union": {
+    "name": "The Ohio Union",
+    "profit": 11.00, 
+    "lat": "39.998113",
+    "long": "-83.008036",
+    "num": "16"
+  }, 
+  "Ohio Stadium": {
+    "name": "Ohio Stadium",
+    "profit": 7.49, 
+    "lat": "40.002937",
+    "long": "-83.018941",
+    "num": "17"
+  },
+  "Woody Hayes Athletic Center": {
+    "name": "Woody Hayes Athletic Center",
+    "profit": 8.24, 
+    "lat": "40.012937",
+    "long": "-83.023520",
+    "num": "18"
+  },
+  "The Blackwell": {
+    "name": "The Blackwell",
+    "profit": 5.90, 
+    "lat": "40.004836",
+    "long": "-83.016994",
+    "num": "19"
+  }, 
+  "254 Baker Systems": {
+    "name": "254 Baker Systems",
+    "profit": 5.39, 
+    "lat": "40.001554",
+    "long": "-83.015497",
+    "num": "20"
+  },
+  "Thompson Library": {
+    "name": "Thompson Library",
+    "profit": 2.50, 
+    "lat": "39.999216",
+    "long": "-83.015439",
+    "num": "21"
+  },
+  "Lincoln Tower": {
+    "name": "Lincoln Tower",
+    "profit": 2.10, 
+    "lat": "39.998371",
+    "long": "-83.021548",
+    "num": "22"
+  },
+  "RPAC": {
+    "name": "RPAC",
+    "profit": 3.26, 
+    "lat": "39.999028",
+    "long": "-83.017846",
+    "num": "23"
+  },
+  "OSU Wexner Medical Center": {
+    "name": "OSU Wexner Medical Center",
+    "profit": 6.22, 
+    "lat": "39.996172",
+    "long": "-83.017876",
+    "num": "24"
+  },
+  "Taylor Tower": {
+    "name": "Taylor Tower",
+    "profit": 2.73, 
+    "lat": "40.005543",
+    "long": "-83.011003",
+    "num": "25"
+  },
+  "Smith-Steeb": {
+    "name": "Smith-Steeb",
+    "profit": 2.50, 
+    "lat": "39.995658",
+    "long": "-83.009510",
+    "num": "26"
+  },
+  "Hitchcock Hall": {
+    "name": "Hitchcock Hall",
+    "profit": 2.10, 
+    "lat": "40.003523",
+    "long": "-83.014966",
+    "num": "27"
+  },
+  "President Johnson's Office": {
+    "name": "President Johnson's Office",
+    "profit": 3.26, 
+    "lat": "40.000436",
+    "long": "-83.013424",
+    "num": "28"
+  },
+  "University Hall": {
+    "name": "University Hall",
+    "profit": 6.22, 
+    "lat": "40.000399",
+    "long": "-83.014254",
+    "num": "29"
+  },
+  "18th Ave Library": {
+    "name": "18th Ave Library",
+    "profit": 2.73, 
+    "lat": "40.001890",
+    "long": "-83.013451",
+    "num": "30"
+  }, 
+  "End: Scott Lab E024": {
+    "name": "End: Scott Lab E024",
+    "profit": 0,
+    "lat": "40.0022333",
+    "long": "-83.014640",
+    "num": "31"
+  }
+}
